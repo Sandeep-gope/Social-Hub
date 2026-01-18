@@ -1,5 +1,8 @@
 Frontend:
 
+Tailwind Css, 
+React-icons
+
 Pages:
 1. Home.jsx (contains components Navbar.jsx and PostCard.jsx)
 -  It has like and comment icons, clicking on which it will display a comment section with previous comments.
@@ -9,6 +12,13 @@ Pages:
 -  It is a different page apart from Home.jsx
 -  It requires all the details as well as image which the user need to post
 -  It has a button , clicking on which it will navigate to the home page with the new post
+
+components:
+Navbar.jsx, 
+PostCard.jsx, 
+PostModal.jsx, 
+Home.jsx, 
+CreatePost.jsx, 
 
 Backend:
 1. Database - MongoDB
